@@ -1,4 +1,4 @@
-<h1>FastAPI template</h1>
+<h1>Python template</h1>
 
 Template for a Python package.
 
